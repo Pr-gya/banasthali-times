@@ -1,0 +1,18 @@
+{
+ "slug": "sample-1",
+ "title": "A sample front-page story for layout preview",
+ "audience": "parents",
+ "format": "article",
+ "approvedAt": "2026-10-28T09:00:00Z",
+ "metaDescription": "This is placeholder text used only to preview the newspaper layout. It is not a real story.",
+ "body": "## A heading\n\nThis paragraph is placeholder text to check readability: line length, spacing, and the drop cap. **Bold** and *italic* work, and so do [links](https://example.com).\n\n- First point\n- Second point\n\n> A quoted line stands out from the text.\n\nA second paragraph keeps the column going so you can judge how it reads over a longer passage of text.",
+ "faq": [
+  {
+   "q": "Is this real?",
+   "a": "No, it is layout sample text."
+  }
+ ],
+ "sources": [
+  "https://example.com/source"
+ ]
+}

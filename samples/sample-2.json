@@ -1,0 +1,11 @@
+{
+ "slug": "sample-2",
+ "title": "Second sample story about admissions",
+ "audience": "students",
+ "format": "article",
+ "approvedAt": "2026-10-27T09:00:00Z",
+ "metaDescription": "Another placeholder summary to test the card grid and filters.",
+ "body": "Placeholder body text for layout testing only.\n\nSecond paragraph.",
+ "faq": [],
+ "sources": []
+}

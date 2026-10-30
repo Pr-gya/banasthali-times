@@ -1,0 +1,11 @@
+{
+ "slug": "sample-4",
+ "title": "A sample poem",
+ "audience": "students",
+ "format": "poem",
+ "approvedAt": "2026-10-25T09:00:00Z",
+ "metaDescription": "Placeholder poem to preview the poem layout.",
+ "body": "First line of the sample\nSecond line of the sample\n\nA new stanza begins here\nAnd ends here",
+ "faq": [],
+ "sources": []
+}

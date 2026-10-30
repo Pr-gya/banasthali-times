@@ -1,0 +1,12 @@
+{
+  "name": "banasthali-times",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Banasthali Times: static newspaper-style blog for stories published by Banasthali Visibility OS.",
+  "type": "module",
+  "engines": { "node": ">=18" },
+  "scripts": {
+    "build": "node build.js",
+    "preview": "node build.js --samples"
+  }
+}
